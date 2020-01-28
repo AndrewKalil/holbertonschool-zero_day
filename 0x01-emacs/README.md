@@ -1,1 +1,1 @@
-This command is to open a file from within Emacs 
+This is to show some of the common Emacs commands 
