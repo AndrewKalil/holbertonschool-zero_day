@@ -1,2 +1,2 @@
-This is my first emacs edited document. I am very exited to begin my Holberton journey
+I am very exited to learn how to code and get started with my programming career.
 
