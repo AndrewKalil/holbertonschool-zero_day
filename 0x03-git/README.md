@@ -1,1 +1,1 @@
-This is where the answers of the git proyect are.
+Using git is so fun and interesting. Cannot wait to learn more :).
